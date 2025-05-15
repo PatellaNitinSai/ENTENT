@@ -2,7 +2,7 @@
   "name": "ship-maintanance-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://patellanitinsai.github.io/ENTENT",
+  "homepage": "https://patellanitinsai.github.io/ENTENT/login",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
