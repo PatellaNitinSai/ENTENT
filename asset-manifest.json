@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ship-maintanance-dashboard/static/css/main.64f8e45f.css",
-    "main.js": "/ship-maintanance-dashboard/static/js/main.773381a0.js",
-    "static/js/453.e8903ed5.chunk.js": "/ship-maintanance-dashboard/static/js/453.e8903ed5.chunk.js",
-    "index.html": "/ship-maintanance-dashboard/index.html",
-    "main.64f8e45f.css.map": "/ship-maintanance-dashboard/static/css/main.64f8e45f.css.map",
-    "main.773381a0.js.map": "/ship-maintanance-dashboard/static/js/main.773381a0.js.map",
-    "453.e8903ed5.chunk.js.map": "/ship-maintanance-dashboard/static/js/453.e8903ed5.chunk.js.map"
+    "main.css": "/ENTENT/static/css/main.64f8e45f.css",
+    "main.js": "/ENTENT/static/js/main.6ed11a92.js",
+    "static/js/453.e8903ed5.chunk.js": "/ENTENT/static/js/453.e8903ed5.chunk.js",
+    "index.html": "/ENTENT/index.html",
+    "main.64f8e45f.css.map": "/ENTENT/static/css/main.64f8e45f.css.map",
+    "main.6ed11a92.js.map": "/ENTENT/static/js/main.6ed11a92.js.map",
+    "453.e8903ed5.chunk.js.map": "/ENTENT/static/js/453.e8903ed5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64f8e45f.css",
-    "static/js/main.773381a0.js"
+    "static/js/main.6ed11a92.js"
   ]
 }
